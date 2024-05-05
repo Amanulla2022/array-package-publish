@@ -1,0 +1,20 @@
+{
+  "name": "array_packages",
+  "version": "1.0.1",
+  "description": "12 functions of array that are used mostly.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Array",
+    "Utility",
+    "Functions",
+    "Higher",
+    "Order",
+    "Functions(HOF)",
+    "Operations"
+  ],
+  "author": "Amanulla Iqbal Mulla",
+  "license": "ISC"
+}
